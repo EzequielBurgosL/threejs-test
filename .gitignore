@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# MacOSX file
+.DS_Store
+
+# Temporal files
+temp
+
+# Deployment folder
+dist
+
+# Lock files
+package-lock.json
